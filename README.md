@@ -1,4 +1,4 @@
-# Rust Learning Journey 🦀
+# MY Rust Learning Journey 🦀
 
 Welcome to my Rust learning repository! This is where I document my journey mastering the Rust programming language through hands-on exercises, preparing for blockchain development with Polkadot and Substrate.
 
