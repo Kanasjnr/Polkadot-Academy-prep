@@ -10,6 +10,24 @@ This repository serves as my personal learning space where I:
 3. **Prepare for Substrate**: Build the Rust foundation needed for blockchain development
 4. **Share My Journey**: Help others following a similar learning path
 
+## 📊 Progress Tracker
+
+### Completed Exercises ✅
+- **00_intro**: Getting started with Rust ✅
+- **01_variables**: Variable declaration, mutability, and scope ✅
+- **02_functions**: Function syntax, parameters, and return values ✅
+- **03_if**: Conditional statements and control flow ✅
+
+### In Progress / Next Up 🔄
+- **04_primitive_types**: Basic data types (integers, floats, booleans, chars)
+- **05_vecs**: Vectors - dynamic arrays
+- **06_move_semantics**: Ownership, borrowing, and moving
+
+### Upcoming 📋
+- **07_structs**: Custom data structures
+- **08_enums**: Enumeration types and pattern matching
+- ... (continuing through all 23 topics)
+
 Each exercise focuses on specific Rust concepts, building understanding progressively from basic syntax to advanced topics like lifetimes, smart pointers, and concurrency. As I work through these exercises, I document my progress, share insights, and track my growth as a Rust developer preparing for Substrate development.
 
 ## 📚 Learning Path
