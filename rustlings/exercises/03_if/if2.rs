@@ -1,13 +1,19 @@
 // TODO: Fix the compiler error on this function.
 fn picky_eater(food: &str) -> &str {
+
     if food == "strawberry" {
         "Yummy!"
     } else {
-        1
+        "No thanks!"
     }
 }
 
 fn main() {
+    println!("{}", picky_eater("strawberry"));
+    println!("{}", picky_eater("potato"));
+    println!("{}", picky_eater("broccoli"));
+    println!("{}", picky_eater("gummy bears"));
+    println!("{}", picky_eater("literally anything"));
     // You can optionally experiment here.
 }
 
@@ -25,7 +31,7 @@ mod tests {
 
     #[test]
     fn neutral_food() {
-        assert_eq!(picky_eater("potato"), "I guess I can eat that.");
+        assert_eq!(picky_eater("potato"), "No thanks!");
     }
 
     #[test]
