@@ -17,33 +17,51 @@ This repository serves as my personal learning space where I:
 - **01_variables**: Variable declaration, mutability, and scope ✅
 - **02_functions**: Function syntax, parameters, and return values ✅
 - **03_if**: Conditional statements and control flow ✅
+- **04_primitive_types**: Basic data types (integers, floats, booleans, chars) ✅
+- **05_vecs**: Vectors - dynamic arrays ✅
+- **quizzes**: quiz1 - First comprehensive knowledge check ✅
 
 ### In Progress / Next Up 🔄
-- **04_primitive_types**: Basic data types (integers, floats, booleans, chars)
-- **05_vecs**: Vectors - dynamic arrays
 - **06_move_semantics**: Ownership, borrowing, and moving
 
 ### Upcoming 📋
 - **07_structs**: Custom data structures
 - **08_enums**: Enumeration types and pattern matching
-- ... (continuing through all 23 topics)
+- **09_strings**: String handling and manipulation
+- **10_modules**: Code organization and visibility
+- **11_hashmaps**: Key-value data structures
+- **12_options**: Handling optional values with `Option<T>`
+- **13_error_handling**: Error propagation with `Result<T, E>`
+- **14_generics**: Generic programming
+- **15_traits**: Interface definitions and implementations
+- **16_lifetimes**: Memory safety and lifetime annotations
+- **17_tests**: Unit testing in Rust
+- **18_iterators**: Functional programming with iterators
+- **19_smart_pointers**: `Box`, `Rc`, `Arc`, and `Cow` types
+- **20_threads**: Concurrency and parallel programming
+- **21_macros**: Metaprogramming with macros
+- **22_clippy**: Code quality and best practices
+- **23_conversions**: Type conversions and casting
+- **quizzes**: quiz2 and quiz3 - Additional knowledge assessments
 
-Each exercise focuses on specific Rust concepts, building understanding progressively from basic syntax to advanced topics like lifetimes, smart pointers, and concurrency. As I work through these exercises, I document my progress, share insights, and track my growth as a Rust developer preparing for Substrate development.
+Each exercise focuses on specific Rust concepts, building understanding progressively from basic syntax to advanced topics like lifetimes, smart pointers, and concurrency. 
+
+**Current Achievement:** Successfully completed 7 major milestones including primitive types, vectors, and the first comprehensive quiz! As I work through these exercises, I document my progress, share insights, and track my growth as a Rust developer preparing for Substrate development.
 
 ## 📚 Learning Path
 
 The exercises are organized into 23 main topics plus quizzes:
 
-### Foundation (Exercises 0-4)
-- **00_intro**: Getting started with Rust
-- **01_variables**: Variable declaration, mutability, and scope
-- **02_functions**: Function syntax, parameters, and return values
-- **03_if**: Conditional statements and control flow
-- **04_primitive_types**: Basic data types (integers, floats, booleans, chars)
+### Foundation (Exercises 0-4) ✅ **COMPLETED**
+- **00_intro**: Getting started with Rust ✅
+- **01_variables**: Variable declaration, mutability, and scope ✅
+- **02_functions**: Function syntax, parameters, and return values ✅
+- **03_if**: Conditional statements and control flow ✅
+- **04_primitive_types**: Basic data types (integers, floats, booleans, chars) ✅
 
-### Data Structures (Exercises 5-11)
-- **05_vecs**: Vectors - dynamic arrays
-- **06_move_semantics**: Ownership, borrowing, and moving
+### Data Structures (Exercises 5-11) 
+- **05_vecs**: Vectors - dynamic arrays ✅
+- **06_move_semantics**: Ownership, borrowing, and moving 🔄 **NEXT UP**
 - **07_structs**: Custom data structures
 - **08_enums**: Enumeration types and pattern matching
 - **09_strings**: String handling and manipulation
@@ -66,6 +84,9 @@ The exercises are organized into 23 main topics plus quizzes:
 
 ### Assessment
 - **quizzes**: Three comprehensive quizzes to test your knowledge
+  - **quiz1**: ✅ **COMPLETED** - First comprehensive knowledge check
+  - **quiz2**: 📋 **UPCOMING** - Intermediate assessment  
+  - **quiz3**: 📋 **UPCOMING** - Advanced assessment
 
 ## 🚀 Getting Started
 
