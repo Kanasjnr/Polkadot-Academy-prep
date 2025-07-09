@@ -10,6 +10,32 @@ This repository serves as my personal learning space where I:
 3. **Prepare for Substrate**: Build the Rust foundation needed for blockchain development
 4. **Share My Journey**: Help others following a similar learning path
 
+## 📁 Repository Structure
+
+### 🏠 `hello_rust/`
+My first Rust project! A simple "Hello, Rust!" program that includes:
+- Basic Rust syntax demonstration
+- Cargo project structure
+- Helpful comments about Rust macros and compilation
+- Example of variable usage
+
+### 📚 `rustlings/`
+Interactive Rust exercises for hands-on learning:
+- 23 main exercise categories covering all Rust fundamentals
+- Progressive difficulty from basic syntax to advanced concepts
+- Solutions included for reference and learning
+- Comprehensive coverage of ownership, borrowing, lifetimes, and concurrency
+
+### 🚀 `rust-crash-course/`
+Complete Cyfrin Rust crash course curriculum featuring:
+- **Structured Learning Path**: From basic types to advanced concurrency
+- **Hands-on Exercises**: Practice problems with solutions
+- **Comprehensive Coverage**: All essential Rust concepts
+- **Real-world Examples**: Practical applications and use cases
+- **Resource Collection**: Links to official documentation and tools
+
+This crash course covers everything from basic data types to advanced topics like async/await, providing a solid foundation for blockchain development with Substrate.
+
 ## 📊 Progress Tracker
 
 ### Completed Exercises ✅
@@ -97,18 +123,28 @@ The exercises are organized into 23 main topics plus quizzes:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Kanasjnr/Polkadot-Academy-prep.git
    cd Polkadot
    ```
 
-2. Navigate to the rustlings directory:
+2. Explore the different learning paths:
+
+   **Option A: Start with Hello Rust**
    ```bash
-   cd rustlings
+   cd hello_rust
+   cargo run
    ```
 
-3. Run your first exercise:
+   **Option B: Jump into Rustlings Exercises**
    ```bash
+   cd rustlings
    cargo run --bin intro1
+   ```
+
+   **Option C: Follow the Crash Course**
+   ```bash
+   cd rust-crash-course
+   # Follow the structured learning path in the README
    ```
 
 ## 🎮 How to Use This Repository
@@ -190,12 +226,24 @@ These concepts are crucial for substrate development, as they form the foundatio
 - Read the official Rust documentation: https://doc.rust-lang.org/book/
 - Join the Rust community: https://users.rust-lang.org/
 
-## 📚 Additional Resources
+## 📚 Learning Resources
 
+### 🎯 Integrated Learning Materials
+- **hello_rust/**: Basic Rust introduction with hands-on coding
+- **rustlings/**: Interactive exercises with progressive difficulty
+- **rust-crash-course/**: Complete Cyfrin curriculum with comprehensive coverage
+
+### 🌐 External Resources
 - **The Rust Programming Language Book**: https://doc.rust-lang.org/book/
 - **Rust by Example**: https://doc.rust-lang.org/rust-by-example/
 - **Rustlings GitHub**: https://github.com/rust-lang/rustlings
+- **Cyfrin Updraft**: https://updraft.cyfrin.io - Original crash course platform
 - **Polkadot Documentation**: https://docs.polkadot.network/
+
+### 🛠️ Development Tools
+- **Rust Playground**: https://play.rust-lang.org/ - Test code online
+- **Cargo Commands**: Essential commands for Rust development
+- **rust-analyzer**: LSP for excellent IDE support
 
 ## 🎉 My Next Steps: Substrate Learning Journey
 
