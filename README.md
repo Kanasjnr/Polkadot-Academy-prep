@@ -2,6 +2,14 @@
 
 Welcome to my Rust learning repository! This is where I document my journey mastering the Rust programming language through hands-on exercises, preparing for blockchain development with Polkadot and Substrate.
 
+## 🎉 Recent Updates
+
+**Latest Progress:** Just completed move semantics exercises covering ownership, borrowing, and moving in Rust! 
+- ✅ Completed `move_semantics1` and `move_semantics2` exercises
+- ✅ Implemented vector operations with both loop and iterator approaches in `vecs2`
+- ✅ Added multiplication and division functions in rust-crash-course
+- 📈 **8/23 major exercise categories completed** (35% progress!)
+
 ## 🎯 Purpose
 
 This repository serves as my personal learning space where I:
@@ -36,6 +44,9 @@ Complete Cyfrin Rust crash course curriculum featuring:
 
 This crash course covers everything from basic data types to advanced topics like async/await, providing a solid foundation for blockchain development with Substrate.
 
+**Recent Progress:**
+- **Functions**: Completed multiplication and division function exercises ✅
+
 ## 📊 Progress Tracker
 
 ### Completed Exercises ✅
@@ -45,13 +56,13 @@ This crash course covers everything from basic data types to advanced topics lik
 - **03_if**: Conditional statements and control flow ✅
 - **04_primitive_types**: Basic data types (integers, floats, booleans, chars) ✅
 - **05_vecs**: Vectors - dynamic arrays ✅
+- **06_move_semantics**: Ownership, borrowing, and moving ✅
 - **quizzes**: quiz1 - First comprehensive knowledge check ✅
 
 ### In Progress / Next Up 🔄
-- **06_move_semantics**: Ownership, borrowing, and moving
+- **07_structs**: Custom data structures
 
 ### Upcoming 📋
-- **07_structs**: Custom data structures
 - **08_enums**: Enumeration types and pattern matching
 - **09_strings**: String handling and manipulation
 - **10_modules**: Code organization and visibility
@@ -72,7 +83,7 @@ This crash course covers everything from basic data types to advanced topics lik
 
 Each exercise focuses on specific Rust concepts, building understanding progressively from basic syntax to advanced topics like lifetimes, smart pointers, and concurrency. 
 
-**Current Achievement:** Successfully completed 7 major milestones including primitive types, vectors, and the first comprehensive quiz! As I work through these exercises, I document my progress, share insights, and track my growth as a Rust developer preparing for Substrate development.
+**Current Achievement:** Successfully completed 8 major milestones including primitive types, vectors, move semantics, and the first comprehensive quiz! As I work through these exercises, I document my progress, share insights, and track my growth as a Rust developer preparing for Substrate development.
 
 ## 📚 Learning Path
 
@@ -87,8 +98,8 @@ The exercises are organized into 23 main topics plus quizzes:
 
 ### Data Structures (Exercises 5-11) 
 - **05_vecs**: Vectors - dynamic arrays ✅
-- **06_move_semantics**: Ownership, borrowing, and moving 🔄 **NEXT UP**
-- **07_structs**: Custom data structures
+- **06_move_semantics**: Ownership, borrowing, and moving ✅
+- **07_structs**: Custom data structures 🔄 **NEXT UP**
 - **08_enums**: Enumeration types and pattern matching
 - **09_strings**: String handling and manipulation
 - **10_modules**: Code organization and visibility
